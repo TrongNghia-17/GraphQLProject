@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\GraphQLProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C68D7A51-DC4B-444F-BD34-5947140A799B}|GraphQLProject\\GraphQLProject.csproj|e:\\graphqlproject\\graphqlproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C68D7A51-DC4B-444F-BD34-5947140A799B}|GraphQLProject\\GraphQLProject.csproj|solutionrelative:graphqlproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C68D7A51-DC4B-444F-BD34-5947140A799B}|GraphQLProject\\GraphQLProject.csproj|e:\\graphqlproject\\graphqlproject\\schema\\menuschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C68D7A51-DC4B-444F-BD34-5947140A799B}|GraphQLProject\\GraphQLProject.csproj|solutionrelative:graphqlproject\\schema\\menuschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C68D7A51-DC4B-444F-BD34-5947140A799B}|GraphQLProject\\GraphQLProject.csproj|e:\\graphqlproject\\graphqlproject\\mutation\\menumutation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C68D7A51-DC4B-444F-BD34-5947140A799B}|GraphQLProject\\GraphQLProject.csproj|solutionrelative:graphqlproject\\mutation\\menumutation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C68D7A51-DC4B-444F-BD34-5947140A799B}|GraphQLProject\\GraphQLProject.csproj|e:\\graphqlproject\\graphqlproject\\query\\menuquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C68D7A51-DC4B-444F-BD34-5947140A799B}|GraphQLProject\\GraphQLProject.csproj|solutionrelative:graphqlproject\\query\\menuquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\GraphQLProject\\GraphQLProject\\Program.cs",
+              "RelativeDocumentMoniker": "GraphQLProject\\Program.cs",
+              "ToolTip": "E:\\GraphQLProject\\GraphQLProject\\Program.cs",
+              "RelativeToolTip": "GraphQLProject\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T08:49:15.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MenuSchema.cs",
+              "DocumentMoniker": "E:\\GraphQLProject\\GraphQLProject\\Schema\\MenuSchema.cs",
+              "RelativeDocumentMoniker": "GraphQLProject\\Schema\\MenuSchema.cs",
+              "ToolTip": "E:\\GraphQLProject\\GraphQLProject\\Schema\\MenuSchema.cs",
+              "RelativeToolTip": "GraphQLProject\\Schema\\MenuSchema.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T08:48:08.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MenuQuery.cs",
+              "DocumentMoniker": "E:\\GraphQLProject\\GraphQLProject\\Query\\MenuQuery.cs",
+              "RelativeDocumentMoniker": "GraphQLProject\\Query\\MenuQuery.cs",
+              "ToolTip": "E:\\GraphQLProject\\GraphQLProject\\Query\\MenuQuery.cs",
+              "RelativeToolTip": "GraphQLProject\\Query\\MenuQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T08:38:05.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MenuMutation.cs",
+              "DocumentMoniker": "E:\\GraphQLProject\\GraphQLProject\\Mutation\\MenuMutation.cs",
+              "RelativeDocumentMoniker": "GraphQLProject\\Mutation\\MenuMutation.cs",
+              "ToolTip": "E:\\GraphQLProject\\GraphQLProject\\Mutation\\MenuMutation.cs",
+              "RelativeToolTip": "GraphQLProject\\Mutation\\MenuMutation.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T08:36:27.984Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
